@@ -31,6 +31,7 @@ body {
     color: #778A50;
     font-size: 44px;
     font-weight: 900;
+    margin-bottom: 12px;
 }
 
 .header-box-button {
@@ -96,10 +97,9 @@ body {
 
 .nav-list-item {
     color: #EDF2C5;
-    background-color: #778A50;
     display: inline-block;
     margin: auto 30px;
-    padding: 11.25px 0px;
+    padding: 11px 0px;
     text-align: center;
     font-size: 16px;
     font-weight: 900;
@@ -126,7 +126,7 @@ body {
 }
 
 .img-main-pumpkin {
-    margin: 10px 0px 60px 0px;
+    margin: 12px 0px 60px 0px;
 }
 
 .content-box {
@@ -217,4 +217,5 @@ body {
     font-size: 10px;
     color: #778A50;
 }
+
 /*footer end*/
