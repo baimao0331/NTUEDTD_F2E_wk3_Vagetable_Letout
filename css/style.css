@@ -136,14 +136,14 @@ body {
     gap: 64px;
 }
 
-.box-vagetables {
+.box-vegetables {
     display: grid;
     grid-template: 45px 140px/165px 165px 165px;
     gap: 12px;
     max-width: 528px;
 }
 
-.box-vagetables-title {
+.box-vegetables-title {
     margin: 0px;
     padding: 12px 30px;
     grid-column: 1/4;
